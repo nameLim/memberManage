@@ -1,5 +1,7 @@
 package com.inflearn.memberManage.repository;
 import com.inflearn.memberManage.domain.Member;
+import org.springframework.stereotype.Repository;
+
 import java.util.List;
 import java.util.Optional;
 
